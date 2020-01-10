@@ -11,6 +11,7 @@
 retrieve_raw_data <- function(a) {
       a <- sum(a)
       
+      a <- c(1:20)
       browser()
       
       
